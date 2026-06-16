@@ -1,0 +1,3 @@
+Usar contraseñas fuertes y únicas
+Activar la autenticación en dos pasos (2FA)
+Mantener el software actualizado

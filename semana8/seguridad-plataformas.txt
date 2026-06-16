@@ -1,0 +1,6 @@
+Contraseñas seguras
+Autenticación en dos pasos (2FA)
+Control de permisos
+Actualizaciones del sistema
+Moderación de contenido
+Protección de datos personales
